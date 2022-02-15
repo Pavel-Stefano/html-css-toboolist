@@ -97,3 +97,16 @@ ul {
     font-size: 10px;
 }
 
+.rettangolo{
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.editorial {
+    background-color: rgb(10, 143, 187);
+    
+} 
+
+
