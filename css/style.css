@@ -18,13 +18,17 @@ body{
     margin-top: 20px;
 }
 
+.padding-top {
+    padding-top: 40px;
+}
+
 .sfondo-bianco{
     background-color: white;
 
 }
 
 .padding {
-    padding: 15px 35px;
+    padding: 15px 60px;
 }
 
 
@@ -74,4 +78,18 @@ main{
     height: 600px;
     margin: auto;
     margin-top: 3px;
+}
+
+ul {
+    list-style: none;
+}
+
+.titolo-spunta{
+    border: nonex;
+}
+
+.spunta {
+    border: 1px solid blue;
+    color: blue;
+    border-radius: 50%;
 }
