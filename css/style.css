@@ -4,3 +4,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: lightgrey;
+}
+
+/* classi replicabili */
+.container {
+    width: 70%;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+
+/* header */
+header {
+    border: 1px solid black;
+    height: 100px;
+    background-color: white;
+}
+
+header>img {
+    margin-left: 20px;
+}
+
+#logo-principale{
+    display: inline-block;
+}
+
