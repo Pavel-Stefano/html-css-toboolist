@@ -18,12 +18,20 @@ body{
     margin-top: 20px;
 }
 
+.sfondo-bianco{
+    background-color: white;
+
+}
+
+.padding {
+    padding: 15px 35px;
+}
+
 
 /* header */
 header {
-    border: 1px solid black;
+   
     height: 100px;
-    background-color: white;
 }
 
 header>img {
@@ -34,3 +42,36 @@ header>img {
     display: inline-block;
 }
 
+/* nav */
+nav{
+    border-radius: 10px 10px 0 0;
+    height: 50px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+nav>input {
+    padding:5px;
+    font-size: 10px;
+    border-radius: 5px;
+}
+
+#add-task {
+    background-color: blue;
+    color: white;
+}
+
+#add-selection {
+    background-color: white;
+    color: grey;
+}
+
+
+
+
+/* main */
+main{   
+    height: 600px;
+    margin: auto;
+    margin-top: 3px;
+}
