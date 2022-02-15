@@ -71,8 +71,6 @@ nav>input {
 }
 
 
-
-
 /* main */
 main{   
     height: 600px;
@@ -84,12 +82,9 @@ ul {
     list-style: none;
 }
 
-.titolo-spunta{
-    border: nonex;
-}
-
 .spunta {
     border: 1px solid blue;
     color: blue;
     border-radius: 50%;
+    paddi
 }
