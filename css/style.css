@@ -97,7 +97,12 @@ ul {
     font-size: 10px;
 }
 
-.rettangolo{
+li {
+    margin-top: 15px;
+}
+
+
+.rettangolo {
     font-size: 10px;
     padding: 5px 10px;
     border-radius: 10px;
@@ -108,5 +113,23 @@ ul {
     background-color: rgb(10, 143, 187);
     
 } 
+ 
+.q1-goals {
+    background-color: blueviolet;
+}
 
+.recruiting {
+    background-color: green;
+}
 
+.mobile {
+    background-color: orangered;
+}
+
+.website {
+    background-color: rgb(233, 73, 108);
+}
+
+.sales {
+    background-color: rgb(9, 160, 9);
+}
